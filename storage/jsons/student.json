@@ -1,0 +1,196 @@
+{
+    "Students": [
+        {
+            "id": 1,
+            "name": "Bekmurod",
+            "grade": 78,
+            "section": "C",
+            "course": "SSE",
+            "subjects": [
+                {
+                    "id": 1,
+                    "name": "Maths",
+                    "marks": 78
+                },
+                {
+                    "id": 2,
+                    "name": "Science",
+                    "marks": 78
+                },
+                {
+                    "id": 3,
+                    "name": "English",
+                    "marks": 78
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Dostonbek",
+            "grade": 67,
+            "section": "C",
+            "course": "AI",
+            "subjects": [
+                {
+                    "id": 1,
+                    "name": "Maths",
+                    "marks": 67
+                },
+                {
+                    "id": 2,
+                    "name": "Science",
+                    "marks": 67
+                },
+                {
+                    "id": 3,
+                    "name": "English",
+                    "marks": 67
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Maxmurjon",
+            "grade": 9,
+            "section": "C",
+            "course": "Taxation",
+            "subjects": [
+                {
+                    "id": 1,
+                    "name": "Maths",
+                    "marks": 90
+                },
+                {
+                    "id": 2,
+                    "name": "Science",
+                    "marks": 80
+                },
+                {
+                    "id": 3,
+                    "name": "English",
+                    "marks": 70
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Islombek",
+            "grade": 10,
+            "section": "A",
+            "course": "AI and Machine Learning",
+            "subjects": [
+                {
+                    "id": 1,
+                    "name": "Maths",
+                    "marks": 90
+                },
+                {
+                    "id": 2,
+                    "name": "Science",
+                    "marks": 80
+                },
+                {
+                    "id": 3,
+                    "name": "English",
+                    "marks": 70
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Abdurahmon",
+            "grade": 11,
+            "section": "B",
+            "course": "Computer Science",
+            "subjects": [
+                {
+                    "id": 1,
+                    "name": "Maths",
+                    "marks": 90
+                },
+                {
+                    "id": 2,
+                    "name": "Science",
+                    "marks": 80
+                },
+                {
+                    "id": 3,
+                    "name": "English",
+                    "marks": 70
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Diyorbek",
+            "grade": 93,
+            "section": "C",
+            "course": "SSE",
+            "subjects": [
+                {
+                    "id": 1,
+                    "name": "Maths",
+                    "marks": 90
+                },
+                {
+                    "id": 2,
+                    "name": "Science",
+                    "marks": 89
+                },
+                {
+                    "id": 3,
+                    "name": "English",
+                    "marks": 100
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Gofur",
+            "grade": 80,
+            "section": "C",
+            "course": "Finance",
+            "subjects": [
+                {
+                    "id": 1,
+                    "name": "Maths",
+                    "marks": 87
+                },
+                {
+                    "id": 2,
+                    "name": "Science",
+                    "marks": 67
+                },
+                {
+                    "id": 3,
+                    "name": "English",
+                    "marks": 87
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Ulugbek Umaraliyev",
+            "grade": 89,
+            "section": "C",
+            "course": "SSE",
+            "subjects": [
+                {
+                    "id": 1,
+                    "name": "Maths",
+                    "marks": 90
+                },
+                {
+                    "id": 2,
+                    "name": "Science",
+                    "marks": 78
+                },
+                {
+                    "id": 3,
+                    "name": "English",
+                    "marks": 100
+                }
+            ]
+        }
+    ]
+}
